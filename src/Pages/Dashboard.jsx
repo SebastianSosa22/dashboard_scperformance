@@ -9,7 +9,6 @@ function Dashboard() {
             <Navbar />
             <Container>
                 <Card>
-
                 </Card>
             </Container>
         </>
